@@ -9,8 +9,12 @@ Ichnaea is a lightweight interrupt-based tracer for dynamic memory objects. Ichn
 - Rich context per access (who wrote, where, what, when)
 - Works with `LD_PRELOAD` and simple header annotations
 - Fuzzer-friendly alternative to heavyweight tools like Pin or Valgrind
+
+
 ## Repo
 The main repo lives [here.](https://github.com/IchnaeaTracer/Ichnaea) (Updates coming Soon)
+
+
 ## Quick Start
 ```bash
 # Build
